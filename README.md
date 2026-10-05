@@ -2,8 +2,7 @@
 
 Code to reproduce the quantitative results, tables and data figures in:
 
-> *Unequal benefits and costs of LPG adoption within households: a household-randomized trial with concurrent
-> personal CO monitoring of men and women in peri-urban Techiman, Ghana.* 
+> *Unequal benefits of a clean cooking intervention within households.* 
 
 The study is a two-arm, household-randomized LPG trial (159 charcoal-using households, August–December 2022)
 with 72-hour personal carbon monoxide (CO) measurements on one woman and one man per household at baseline and
